@@ -50,7 +50,7 @@
 
 # Getting Started:
 
-**Repo with all the assets : [PokeDex Assets](https://github.com/HybridShivam/pokemon/)**
+**Repo with all the assets : [PokeDex Assets](https://github.com/YerraHemanthKumar/My-pokedex-project-hemanth/)**
 
 **Setting up the environment:**
 1. Install Node.js and use `node -v` to check version.
