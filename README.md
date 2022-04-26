@@ -18,9 +18,6 @@
   
    <p align="center">Website : <a href="https://hybridshivam.com/pokedex/">iamhemantnani@gmail.com</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
 </p>
-
-<p align="center">Leave a :star: if you liked it, also share :link: with those who may be interested.<p>
- 
 # Screenshots
 <p align="center"><img src="https://user-images.githubusercontent.com/28728749/84378747-4d005180-ac02-11ea-802e-705c80cbbccc.png" width="300"> <img src="https://user-images.githubusercontent.com/28728749/84378755-51c50580-ac02-11ea-9e3d-b25b138642ca.png" width="300"> <img src="https://user-images.githubusercontent.com/28728749/84378759-54bff600-ac02-11ea-922c-a8fce6a35479.png" width="300">
  <img src="https://user-images.githubusercontent.com/28728749/84378768-57225000-ac02-11ea-9709-92ca3ecd5cfd.png" width="300">
