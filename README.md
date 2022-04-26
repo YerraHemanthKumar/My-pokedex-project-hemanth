@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YerraHemanthKumar/My-pokedex-project-hemanth"><img src="https://www.google.com/search?q=pokedex+logo&tbm=isch&ved=2ahUKEwiPv6ut2rH3AhWkgGMGHfx_As4Q2-cCegQIABAA&oq=pokedex+lo&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEAUQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgcIIxDvAxAnOgQIABBDOgQIABAYUMMDWOwWYOMhaAFwAHgAgAGMAYgBoQSSAQMyLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=W-JnYs-lB6SBjuMP_P-J8Aw&bih=569&biw=1366#imgrc=XnLPUNHfcQUw-M" width="250px"></a>
+  <a href="https://github.com/YerraHemanthKumar/My-pokedex-project-hemanth"><img src=C:\Users\q\OneDrive\Desktop\pokedex.png width="250px"></a>
   
   ![Website](https://img.shields.io/badge/Website-Up-green)
   ![Offline](https://img.shields.io/badge/Offline_Compatible-Yes-yellowgreen)
@@ -16,7 +16,7 @@
    Works Offline and can be installed.<br>
    Built using the PokéAPI.
   
-   <p align="center">Website : <a href="https://iamhemanthnani@gmail.com/pokedex/">iamhemanthnani@gmail.com</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
+   <p align="center">Website : <a href="https://hybridshivam.com/pokedex/">hybridshivam.com/pokedex</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
 </p>
 
 <p align="center">Leave a :star: if you liked it, also share :link: with those who may be interested.<p>
