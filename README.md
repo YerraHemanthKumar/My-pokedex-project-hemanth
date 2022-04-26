@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YerraHemanthKumar/My-pokedex-project-hemanth"><img src="file:///C:/Users/q/OneDrive/Desktop/pokedex.png" width="250px"></a>
+  <a href="https://github.com/YerraHemanthKumar/My-pokedex-project-hemanth"><img src="https://dochub.com/iamhemanthnani/jo3xELpR3Qlv63jVJBa7nr/pokedex-png" width="250px"></a>
   
   ![Website](https://img.shields.io/badge/Website-Up-green)
   ![Offline](https://img.shields.io/badge/Offline_Compatible-Yes-yellowgreen)
