@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YerraHemanthKumar/My-pokedex-project-hemanth"><img src=C:\Users\q\OneDrive\Desktop\pokedex.png width="250px"></a>
+  <a href="https://github.com/YerraHemanthKumar/My-pokedex-project-hemanth"><img src="C:\Users\q\OneDrive\Desktop\pokedex.png" width="250px"></a>
   
   ![Website](https://img.shields.io/badge/Website-Up-green)
   ![Offline](https://img.shields.io/badge/Offline_Compatible-Yes-yellowgreen)
@@ -16,7 +16,7 @@
    Works Offline and can be installed.<br>
    Built using the PokéAPI.
   
-   <p align="center">Website : <a href="https://hybridshivam.com/pokedex/">iamhemantnani@gmail.com</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
+   <p align="center">Website : <a href="https://iamhemantnani@gmail.com</">iamhemantnani@gmail.com</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
    
 # Versions
  **v1.0**
@@ -63,9 +63,6 @@
 1. `sudo npm uninstall -g angular-cli @angular/cli`
 1. `npm cache clean --force`
 1. `sudo npm install -g @angular/cli`
-
-# Credits
-Thanks to [PokéAPI.co](https://github.com/PokeAPI/pokeapi). & [Veekun](https://github.com/veekun/pokedex) for the data, [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) for the images, [duiker101](https://github.com/duiker101/pokemon-type-svg-icons) for the type icons and of course to Nintendo, Game Freak, and The Pokémon Company for making such an awesome series of games.
 
 # Copyright Notice
 This is an unofficial, non-commercial, fan-made app and is NOT affiliated, endorsed or supported by Nintendo, Game Freak and The Pokémon Company in any way. Many images used in this app are copyrighted and are supported under fair use. Pokémon and Pokémon character names are trademarks of Nintendo. No copyright infringement intended.
