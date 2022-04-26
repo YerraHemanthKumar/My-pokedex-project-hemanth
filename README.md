@@ -16,7 +16,7 @@
    Works Offline and can be installed.<br>
    Built using the PokéAPI.
   
-   <p align="center">Website : <a href="https://iamhemantnani@gmail.com</">iamhemantnani@gmail.com</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
+   <p align="center">Website : <a href="https://hybridshivam.com/pokedex/pokemon</">iamhemantnani@gmail.com</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
    
 # Versions
  **v1.0**
